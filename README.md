@@ -7,6 +7,9 @@ VRCSDK ControlPanel の Sdtting から、このファイルを指定してくだ
 ローカルテストに force non VR が無かった頃に作成した物です。
 その辺の機能が不具合を起こした時にでもご利用ください。
 
+* VRCLocalTest.vbs - force non vr に従います
+* VRCLocalTest-nonVR.vbs - 強制的にデスクトップモードで起動します。
+
 * [Booth ショップページ](https://kamishirolab.booth.pm/items/1954145)
 ### 連絡先
 [Twitter: @aoi3192](https://twitter.com/aoi3192)  

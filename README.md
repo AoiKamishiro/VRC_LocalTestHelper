@@ -2,7 +2,7 @@
 ## [最新版のダウンロードはこちら](https://github.com/AoiKamishiro/VRC_LocalTestHelper/releases)
 ### About
 VRCのワールドのローカルテストを補助するスクリプトです。
-VRCSDK ControlPanel の Sdtting から、このファイルを指定してください。
+VRCSDK ControlPanel の Setting から、このファイルを指定してください。
 
 ローカルテストに force non VR が無かった頃に作成した物です。
 その辺の機能が不具合を起こした時にでもご利用ください。

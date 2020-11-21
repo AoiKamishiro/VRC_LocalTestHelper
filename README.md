@@ -11,5 +11,5 @@ VRCSDK ControlPanel の Setting から、このファイルを指定してくだ
 ### Contact
 [Twitter: @aoi3192](https://twitter.com/aoi3192)  
 [Booth: 神城工業](https://kamishirolab.booth.pm/)  
-[Vket: 神城工業](https://www.v-market.work/ec/shops/1810/detail/)
+[Vket: 神城工業](https://www.v-market.work/ec/shops/1810/detail/)  
 [VRC: 神城アオイ](https://www.vrchat.com/home/user/usr_19514816-2cf8-43cc-a046-9e2d87d15af7)
